@@ -1,4 +1,4 @@
-﻿define({
+define({
   root: ({
     _widgetLabel: "تجريبي",
     label1: "أنا عنصر واجهة استخدام توضيحي.",

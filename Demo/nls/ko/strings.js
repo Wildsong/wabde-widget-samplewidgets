@@ -1,4 +1,4 @@
-﻿define({
+define({
   root: ({
     _widgetLabel: "데모",
     label1: "데모 위젯입니다.",

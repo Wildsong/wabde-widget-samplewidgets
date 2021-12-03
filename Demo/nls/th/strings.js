@@ -1,4 +1,4 @@
-﻿define({
+define({
   root: ({
     _widgetLabel: "สาธิต",
     label1: "ฉันคือ widget ตัวอย่าง",

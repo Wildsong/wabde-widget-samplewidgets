@@ -1,4 +1,4 @@
-﻿define({
+define({
   root: ({
     _widgetLabel: "演示",
     label1: "这是演示微件。",

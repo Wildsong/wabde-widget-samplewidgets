@@ -1,4 +1,4 @@
-﻿define({
+define({
   root: ({
     _widgetLabel: "Tanıtım",
     label1: "Ben bir demo aracıyım.",
